@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-dotenv
+groq
+tavily-python
+pypdf
+reportlab
+python-docx
+matplotlib
+requests
+pymupdf
+pytesseract
+Pillow
