@@ -11,3 +11,4 @@ requests
 pymupdf
 pytesseract
 Pillow
+python-multipart
