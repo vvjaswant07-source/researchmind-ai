@@ -71,7 +71,7 @@ const agents = [
   },
 ];
 
-const API_BASE_URL = "http://127.0.0.1:8000";
+const API_BASE_URL = "https://researchmind-ai-r5f5.onrender.com";
 const STORAGE_KEY = "researchmind-chat-memory";
 
 function loadMemory() {
